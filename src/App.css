@@ -17,14 +17,16 @@ button{
   background-color: #fff;
   
 }
-.geoImgage{
-  width: 100%;
-  height: 100%;
-  opacity: 0.5;
-}
+
 h1{
-  margin: 50px;
+  margin: 25px;
+  padding: 25px;
+  margin-left: 0;
+  margin-right: 0;
   /* background-color: rgb(168, 242, 237); */
+  color: #dc3545;
+  background-color:#0d6efd;
+  text-shadow: 2px 2px 3px #eee;
 }
 #video {
  
@@ -44,14 +46,15 @@ h1{
 .geolocation{
  
 margin-left: 10px;
-margin-right: 10;
+margin-right: 10px;
   height: 300px;
 
   background-size: cover;
   border-radius: 2px 20px;
   border: 2px solid #000;
+  
 background-image: url("./components/img/business-location.jpeg");
-box-shadow: 5px 10px rgb(55, 54, 54);
+box-shadow: 5px 10px 5px rgb(55, 54, 54);
 
   
 }
@@ -61,6 +64,10 @@ box-shadow: 5px 10px rgb(55, 54, 54);
   font-size: 30px;
   font-weight: bold;
 
+}
+.location-btn:hover{
+background-color: rgb(17, 12, 12);
+color: #eee;
 }
 .video-container{
   display: flex;

@@ -20,7 +20,7 @@ export default function Geolocation(){
     <div className="geolocation">
         <p className="loca">latitude : {latitude}</p>
       <p className="loca">lognitude : {lognitude}</p>
-      <button onClick={getlocation}>Get Location</button>
+      <button onClick={getlocation} className="location-btn" >Get Location</button>
     
       
         

@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ai-nxt-assignment/static/css/main.ed4e9659.css",
+    "main.js": "/ai-nxt-assignment/static/js/main.f570953d.js",
+    "static/js/787.c65b9952.chunk.js": "/ai-nxt-assignment/static/js/787.c65b9952.chunk.js",
+    "static/media/business-location.jpeg": "/ai-nxt-assignment/static/media/business-location.614cd80aa93336c87e13.jpeg",
+    "static/media/chat.jpg": "/ai-nxt-assignment/static/media/chat.5136cee9497920fd61df.jpg",
+    "index.html": "/ai-nxt-assignment/index.html",
+    "main.ed4e9659.css.map": "/ai-nxt-assignment/static/css/main.ed4e9659.css.map",
+    "main.f570953d.js.map": "/ai-nxt-assignment/static/js/main.f570953d.js.map",
+    "787.c65b9952.chunk.js.map": "/ai-nxt-assignment/static/js/787.c65b9952.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed4e9659.css",
+    "static/js/main.f570953d.js"
+  ]
+}
